@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mein Minecraft</title>
+    <link>http://www.redstone-xxl.de/</link>
+    <description>Recent content on Mein Minecraft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 27 Feb 2020 17:27:55 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.redstone-xxl.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monsterabschreckung</title>
+      <link>http://www.redstone-xxl.de/blog/ersterschritt/</link>
+      <pubDate>Tue, 03 Mar 2020 17:27:55 +0100</pubDate>
+      
+      <guid>http://www.redstone-xxl.de/blog/ersterschritt/</guid>
+      <description>Ich möchte Ruhe von den Monstern haben</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://www.redstone-xxl.de/impressum/</link>
+      <pubDate>Thu, 27 Feb 2020 17:27:55 +0100</pubDate>
+      
+      <guid>http://www.redstone-xxl.de/impressum/</guid>
+      <description>Chris Czeyka Balanstr. 15 81669 München
+Telefon: 0163 6857882 E-Mail: chris.czeyka@gmx.net</description>
+    </item>
+    
+  </channel>
+</rss>
