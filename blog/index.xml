@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Mein Minecraft</title>
-    <link>http://www.redstone-xxl.de/blog/</link>
+    <link>https://www.redstone-xxl.de/blog/</link>
     <description>Recent content in Blogs on Mein Minecraft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 03 Mar 2020 17:27:55 +0100</lastBuildDate>
     
-	<atom:link href="http://www.redstone-xxl.de/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.redstone-xxl.de/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Monsterabschreckung</title>
-      <link>http://www.redstone-xxl.de/blog/ersterschritt/</link>
+      <link>https://www.redstone-xxl.de/blog/ersterschritt/</link>
       <pubDate>Tue, 03 Mar 2020 17:27:55 +0100</pubDate>
       
-      <guid>http://www.redstone-xxl.de/blog/ersterschritt/</guid>
+      <guid>https://www.redstone-xxl.de/blog/ersterschritt/</guid>
       <description>Ich möchte Ruhe von den Monstern haben</description>
     </item>
     
